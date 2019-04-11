@@ -1,3 +1,3 @@
-# Flippy Bird
+# Flappy Bird - CLone
 
-Flippy Bird is a game developed using LibGDX as a clone of Flappy Bird
+Developed using LibGDX as a flappy bird clone
